@@ -1,5 +1,3 @@
-# www.usaheltlon
-Medicaid: A state and federal program that provides health coverage for low-income individuals and families. Eligibility varies by state.
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -35,39 +33,3 @@ Medicaid: A state and federal program that provides health coverage for low-inco
     <script src="app.js"></script>
 </body>
 </html>
-body {
-    font-family: Arial, sans-serif;
-    margin: 0;
-    padding: 0;
-    background-color: #f4f4f9;
-}
-
-header {
-    background-color: #007bff;
-    color: white;
-    padding: 20px;
-    text-align: center;
-}
-
-h1 {
-    margin: 0;
-}
-
-section {
-    padding: 20px;
-    margin: 10px;
-}
-
-footer {
-    background-color: #333;
-    color: white;
-    text-align: center;
-    padding: 10px;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
-}
-
-button {
-    padding: 10px 20px;
-    font-size: 16px
